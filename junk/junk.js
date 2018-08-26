@@ -1,2 +1,6 @@
-console.log("junk");
-console.log("junk2");
+function myFunction(thearg){
+    console.log("theage=" + thearg);
+}
+
+myFunction("fred")
+
