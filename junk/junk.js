@@ -1,6 +1,5 @@
-function myFunction(thearg){
-    console.log("theage=" + thearg);
+f1 = function (thearg) {
+    console.log("thearg=" + thearg)
 }
 
-myFunction("fred")
-
+f1("fred")
